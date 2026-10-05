@@ -82,15 +82,20 @@
 
 ## 🚀 Projetos em Destaque
 
-### 1) MeuAuto
+### 1) BidBits
+Aplicação web desenvolvida com TypeScript, com versão publicada na Vercel.  
+🌐 **Aplicação:** https://bidbits-puce.vercel.app/  
+🔗 **Repositório:** https://github.com/BrunoPCdS/bidbits
+
+### 2) MeuAuto
 Sistema/projeto autoral com foco em desenvolvimento prático e evolução contínua.  
 🔗 **Repositório:** https://github.com/Foxtnt/MeuAuto
 
-### 2) Incidentes de Segurança da Informação no Brasil (2010–2019)
+### 3) Incidentes de Segurança da Informação no Brasil (2010–2019)
 Projeto de dados com análise histórica de incidentes de segurança da informação no Brasil.  
 🔗 **Repositório:** https://github.com/BrunoPCdS/Incidentes-de-Seguranca-da-Informac-o-no-Brasil-2010-a-2019-
 
-### 3) Jogo “Caça ao Pato” em GRID
+### 4) Jogo “Caça ao Pato” em GRID
 Projeto de jogo com interface em grid, reforçando lógica, interação e organização de front-end.  
 🔗 **Repositório:** https://github.com/BrunoPCdS/Jogo-Ca-a-ao-Pato-em-GRID
 
