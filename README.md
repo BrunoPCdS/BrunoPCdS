@@ -1,7 +1,13 @@
 # Olá, eu sou o Bruno Corrêa 👋
 
+<div align="center">
+
+[![Acessar currículo interativo](https://img.shields.io/badge/📄%20Acessar%20Currículo%20Interativo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://curriculo-interativo-taupe.vercel.app/)
+
+</div>
+
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-🚀 Desenvolvedor em formação com foco em **Back-End, APIs** e projetos práticos  
+🚀 Desenvolvedor em formação com foco em **Back-End, APIs, aplicações web e análise de dados**  
 💼 Buscando oportunidade de **estágio / júnior** para evoluir e gerar impacto com tecnologia
 
 ![Profile views](https://komarev.com/ghpvc/?username=BrunoPCdS&style=for-the-badge&color=0e75b6)
@@ -10,10 +16,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- Experiência prática com desenvolvimento web, banco de dados e análise de dados.
+- Experiência prática com desenvolvimento web, banco de dados, APIs e análise de dados.
 - Construindo projetos autorais para portfólio e prática real de mercado.
-- Interesse em trilhas de **Back-End**, arquitetura de APIs, segurança e boas práticas.
-
+- Interesse em trilhas de **Back-End**, arquitetura de APIs, segurança, qualidade de código e boas práticas.
+- Meu currículo, experiências e projetos estão disponíveis no [currículo interativo](https://curriculo-interativo-taupe.vercel.app/).
 
 ## 🧠 Tecnologias por categoria
 
@@ -48,12 +54,13 @@
 ![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=2D3748)
 ![Sequelize](https://img.shields.io/badge/Sequelize-111827?style=for-the-badge&logo=sequelize&logoColor=52B0E7)
 
-### ⚙️ DevOps, Ferramentas e Qualidade
+### ☁️ Deploy, DevOps e Ferramentas
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Jest](https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/Insomnia-111827?style=for-the-badge&logo=insomnia&logoColor=4000BF)
@@ -101,3 +108,4 @@ Projeto de jogo com interface em grid, reforçando lógica, interação e organi
 ## 📫 Contato
 
 - Para parcerias, freelas ou oportunidade de estágio/júnior, me chame no LinkedIn.
+- Para conhecer minha trajetória profissional, acesse o [currículo interativo](https://curriculo-interativo-taupe.vercel.app/).
